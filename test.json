@@ -1,0 +1,133 @@
+{
+    "el": {
+        "l": {},
+        "fcSeg": {
+            "start": "2023-09-16T08:00:00.000Z",
+            "end": "2023-09-16T12:00:00.000Z",
+            "isStart": True,
+            "isEnd": True,
+            "col": 6,
+            "eventRange": {
+                "def": {
+                    "title": "小西的家教",
+                    "groupId": "",
+                    "publicId": "8a266a33-92ef-40f7-b822-0be891cd829a",
+                    "url": "",
+                    "recurringDef": None,
+                    "defId": "53",
+                    "sourceId": "19",
+                    "allDay": False,
+                    "hasEnd": True,
+                    "ui": {
+                        "display": "auto",
+                        "constraints": [],
+                        "overlap": False,
+                        "allows": [],
+                        "backgroundColor": "#D0D0D0",
+                        "borderColor": "#D0D0D0",
+                        "textColor": "",
+                        "classNames": []
+                    },
+                    "extendedProps": {},
+                    "resourceIds": [
+                        "a"
+                    ]
+                },
+                "ui": {
+                    "display": "auto",
+                    "startEditable": True,
+                    "durationEditable": False,
+                    "constraints": [],
+                    "overlap": False,
+                    "allows": [],
+                    "backgroundColor": "#D0D0D0",
+                    "borderColor": "#D0D0D0",
+                    "textColor": "",
+                    "classNames": []
+                },
+                "instance": {
+                    "instanceId": "54",
+                    "defId": "53",
+                    "range": {
+                        "start": "2023-09-16T08:00:00.000Z",
+                        "end": "2023-09-16T12:00:00.000Z"
+                    },
+                    "forcedStartTzo": None,
+                    "forcedEndTzo": None
+                },
+                "range": {
+                    "start": "2023-09-16T08:00:00.000Z",
+                    "end": "2023-09-16T12:00:00.000Z"
+                },
+                "isStart": True,
+                "isEnd": True
+            }
+        }
+    },
+    "event": {
+        "allDay": False,
+        "title": "小西的家教",
+        "start": "2023-09-16T08:00:00+08:00",
+        "end": "2023-09-16T12:00:00+08:00",
+        "id": "8a266a33-92ef-40f7-b822-0be891cd829a",
+        "backgroundColor": "#D0D0D0",
+        "borderColor": "#D0D0D0"
+    },
+    "jsEvent": {
+        "isTrusted": True
+    },
+    "view": {
+        "type": "timeGridWeek",
+        "dateEnv": {
+            "timeZone": "local",
+            "canComputeOffset": True,
+            "calendarSystem": {},
+            "locale": {
+                "codeArg": "en",
+                "codes": [
+                    "en"
+                ],
+                "week": {
+                    "dow": 0,
+                    "doy": 4
+                },
+                "simpleNumberFormat": {},
+                "options": {
+                    "direction": "ltr",
+                    "buttonText": {
+                        "prev": "prev",
+                        "next": "next",
+                        "prevYear": "prev year",
+                        "nextYear": "next year",
+                        "year": "year",
+                        "today": "today",
+                        "month": "month",
+                        "week": "week",
+                        "day": "day",
+                        "list": "list"
+                    },
+                    "weekText": "W",
+                    "weekTextLong": "Week",
+                    "closeHint": "Close",
+                    "timeHint": "Time",
+                    "eventHint": "Event",
+                    "allDayText": "all-day",
+                    "moreLinkText": "more",
+                    "noEventsText": "No events to display",
+                    "buttonHints": {
+                        "prev": "Previous $0",
+                        "next": "Next $0"
+                    },
+                    "viewHint": "$0 view",
+                    "navLinkHint": "Go to $0"
+                }
+            },
+            "weekDow": 0,
+            "weekDoy": 4,
+            "weekText": "W",
+            "weekTextLong": "Week",
+            "cmdFormatter": None,
+            "defaultSeparator": " - "
+        }
+    }
+}
